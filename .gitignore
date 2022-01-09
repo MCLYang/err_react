@@ -1,0 +1,307 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+*/npm-debug.log*
+*/yarn-debug.log*
+*/yarn-error.log*
+
+# Byte-compiled / optimized / DLL files
+/wallet/__pycache__/
+/wallet/*.py[cod]
+/wallet/*$py.class
+
+# C extensions
+/wallet/*.so
+
+# Distribution / packaging
+/wallet/.Python
+/wallet/build/
+/wallet/develop-eggs/
+/wallet/dist/
+/wallet/downloads/
+/wallet/eggs/
+/wallet/.eggs/
+/wallet/lib/
+/wallet/lib64/
+/wallet/parts/
+/wallet/sdist/
+/wallet/var/
+/wallet/wheels/
+/wallet/pip-wheel-metadata/
+/wallet/share/python-wheels/
+/wallet/*.egg-info/
+/wallet/.installed.cfg
+/wallet/*.egg
+/wallet/MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+/wallet/*.manifest
+/wallet/*.spec
+
+# Installer logs
+/wallet/pip-log.txt
+/wallet/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+/wallet/htmlcov/
+/wallet/.tox/
+/wallet/.nox/
+/wallet/.coverage
+/wallet/.coverage.*
+/wallet/.cache
+/wallet/nosetests.xml
+/wallet/coverage.xml
+/wallet/*.cover
+/wallet/*.py,cover
+/wallet/.hypothesis/
+/wallet/.pytest_cache/
+
+# Translations
+/wallet/*.mo
+/wallet/*.pot
+
+# Django stuff:
+/wallet/*.log
+/wallet/local_settings.py
+/wallet/db.sqlite3
+/wallet/db.sqlite3-journal
+
+# Flask stuff:
+/wallet/instance/
+/wallet/.webassets-cache
+
+# Scrapy stuff:
+/wallet/.scrapy
+
+# Sphinx documentation
+/wallet/docs/_build/
+
+# PyBuilder
+/wallet/target/
+
+# Jupyter Notebook
+/wallet/.ipynb_checkpoints
+
+# IPython
+/wallet/profile_default/
+/wallet/ipython_config.py
+
+# pyenv
+/wallet/.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+/wallet/__pypackages__/
+
+# Celery stuff
+/wallet/celerybeat-schedule
+/wallet/celerybeat.pid
+
+# SageMath parsed files
+/wallet/*.sage.py
+
+# Environments
+/wallet/.env
+/wallet/.venv
+/wallet/env/
+/wallet/venv/
+/wallet/ENV/
+/wallet/env.bak/
+/wallet/venv.bak/
+
+# Spyder project settings
+/wallet/.spyderproject
+/wallet/.spyproject
+
+# Rope project settings
+/wallet/.ropeproject
+
+# mkdocs documentation
+/wallet/site
+
+# mypy
+/wallet/.mypy_cache/
+/wallet/.dmypy.json
+/wallet/dmypy.json
+
+# Pyre type checker
+/wallet/.pyre/
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/wallet/node_modules
+/wallet/.pnp
+/wallet/.pnp.js
+
+# testing
+/wallet/coverage
+
+# production
+/wallet/build
+
+# misc
+/wallet/.DS_Store
+/wallet/.env.local
+/wallet/.env.development.local
+/wallet/.env.test.local
+/wallet/.env.production.local
+
+/wallet/*/npm-debug.log*
+/wallet/*/yarn-debug.log*
+/wallet/*/yarn-error.log*
